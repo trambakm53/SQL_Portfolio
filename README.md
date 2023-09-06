@@ -9,6 +9,11 @@ MBA(Analytics)& Computer Science Engineering
 ### Work Experience: 
 Data Analyst @Target Retail 
 
+### Technical Skills: 
+* Programming Languages: Python, SQL (Hive & Post-gre), Pyspark.
+* Visualization Tools: Tableau, Domo.
+* Cloud: Microsoft Azure
+
 ### Project 1: Data Science Salary Estimator: Project Overview
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
 * Scraped over 1,000 job descriptions from Glassdoor using Python and Selenium
