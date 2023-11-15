@@ -1,7 +1,7 @@
 # Trambak Portfolio
 
 ## Who am I?
-Data Analyst with an independent consultant mindset currently part of the Marketing & Digital-Insights & Analytics Team having 2.2 years of experience in Data Analysis, Business Intelligence, A/B Testing, Statistical analysis, and Data Governance in the Retail, e-commerce, and Internet industries. Currently primarily supports multiple products in the customer identity.
+Data Analyst with an independent consultant mindset currently part of the Marketing & Digital-Insights & Analytics Team having 2.2 years of experience in Statistical Data Analysis, Business Intelligence, A/B Testing and Data Governance in the Retail, e-commerce, and Internet industries. Currently primarily supports multiple products in the customer identity.
 
 ### Education
 - MBA, Analytics| National Institute of Technology, Trichy(_June 2021_)
