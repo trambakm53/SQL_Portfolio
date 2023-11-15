@@ -13,19 +13,11 @@ Data Analyst @Target Retail
 ### Technical Skills: 
 * Programming Languages: Python, SQL (Hive & Post-gre), Pyspark.
 * Visualization Tools: Tableau, Domo.
-* Cloud: Microsoft Azure
+* Cloud: GCP
 
-###Project 1:
+###Project 1: Indian Startup Funding (In-depth analysis)
+* Analyzed the Indian start-up funding data to get a descriptive overview and a relationship pattern of funding and growth of newly launched startups.
+* Another important point to understand how funding changes with time is an important aspect.
+* Possible areas of interest would be – (Funding ecosystem and time relation, cities as an important factor, which industries, important investors).
+* The dataset that I have used contains information of the funding of startups from January 2015 to August 2017. The amount invested is in USD. Aggregation of data w.r.t cities, investors, funding type, etc. is required to get an optimized result. Here I have done a major preprocessing of data and overcame the problem of missing data and uncertain distributions. Also, Visualizations are done to find the anomalies and mining patterns from data. It seems to be some cities showing some abnormal behavior when it comes to funding.
 
-###Project 2: Data Science Salary Estimator: Project Overview
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1,000 job descriptions from Glassdoor using Python and Selenium
-* Engineered features from the text of each job description to quantify the value companies put on Python, excel, AWS, and Spark.
-* Optimized Linear, Lasso, and Random Forest regressions using GridsearchCV to reach the best model.
-* Built a client-facing API using flask
-
-###Project 3: Ball Image Classifier: Project Overview
-* For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country.
-* They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities.
-* I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning.
-* In most cases, this would meet the needs of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results.
